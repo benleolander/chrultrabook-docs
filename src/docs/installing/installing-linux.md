@@ -54,9 +54,9 @@ Using AVS on a device with max98357a will blow your speakers. You have been warn
 
 For more information please see [WeirdTreeThing's repo](https://github.com/WeirdTreeThing/chromebook-linux-audio)
 
-#### Atomic (Immutable) Distros
+#### Atomic & Image-Based Systems
 
-If you're using an `rpm-ostree` based system (EG: Fedora Silverblue, Fedora Kinoite, Project Bluefin, Bazzite etc.) you can use [PVermeer's RPM package](https://copr.fedorainfracloud.org/coprs/pvermeer/chromebook-linux-audio) of WeirdTreeThing's script. 
+If you're using an `rpm-ostree` based system (EG: Fedora Silverblue, Fedora Kinoite, Project Bluefin, etc.) you can use [PVermeer's RPM package](https://copr.fedorainfracloud.org/coprs/pvermeer/chromebook-linux-audio) of WeirdTreeThing's script. 
 
 1. Open terminal
 2. `sudo dnf copr enable pvermeer/chromebook-linux-audio`
